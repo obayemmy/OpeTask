@@ -1,0 +1,14 @@
+  System.out.println(faker.internet().emailAddress());
+    	
+String phone = faker.phoneNumber().cellPhone();
+faker.internet().
+  
+     String firstName = faker.name().firstName();
+    String lastName = faker.name().lastName();
+System.out.println(faker.idNumber().toString());
+    
+    String streetAddress = faker.address().streetAddress();
+ System.out.println(firstName);
+ System.out.println(name);
+ System.out.println(lastName);
+ System.out.println(streetAddress);
